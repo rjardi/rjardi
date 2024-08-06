@@ -1,4 +1,4 @@
-# Hi there! I'm Ramon Jardí 👋
+# Hi there! 👋 I'm Ramon Jardí 
 ### A passionate Full-Stack Developer
 
 ## About me
